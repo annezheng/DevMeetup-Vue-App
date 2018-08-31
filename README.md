@@ -1,21 +1,10 @@
-# meetup-vue-app
+### meetup-vue-app
 
-## Project setup
-```
-npm install
-```
+The app allow you to sign in, and create, view, register meetups. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### Building Technologies
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+- [VueJS](https://vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [Firebase](https://console.firebase.google.com/)
